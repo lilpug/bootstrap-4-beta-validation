@@ -5,6 +5,8 @@ This can be quite useful if you want to manage your own validation rather than l
 
 **Note: This does use fontawesome.io for the icons.**
 
+JSFiddle Example: https://jsfiddle.net/lilpug/1m7heqqr/1/
+
 ## Normal Example (without validation)
 
 ```HTML
